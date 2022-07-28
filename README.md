@@ -1,1 +1,1 @@
-# popdotfiles
+# pop_os dotfiles
